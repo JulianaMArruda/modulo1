@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+   header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 35vh;
+    width: 100%;
+    background-color: black;
+
+
+   }
+
+    h1 {
+        background-color: black;
+        color: white;
+        
+    }
+
+  nav {
+   background-color: black;
+   margin-left: 16rem;
+
+
+  }
+    
+   section .dog1{
+      width: 100%;
+      border:solid blue;
+      margin-left: 20px;
+
+      
+    }
+
+
+    @media(max-width:500px) {
+      
+    }
